@@ -1,2 +1,1 @@
-"# Smart-Irrigation-System" 
-"# smart-irrigation-system" 
+A mobile application developed in Android Studio for the implementation of a Raspberry Pi system, based on sensors (air temperature, soil humidity, light intensity, rain, water level in the tank). The data from the sensors are stored in a database and displayed as real-time graphs in the mobile application. You can also view an irrigation history and start the pump manually or set a time to start.
