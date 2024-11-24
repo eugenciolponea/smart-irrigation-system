@@ -1,0 +1,2 @@
+rootProject.name='SmartIrrigationSystem'
+include ':app'
